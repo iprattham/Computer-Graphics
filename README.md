@@ -4,13 +4,7 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 ---
 
-## Contents
-
-- **[Q2](#Q2)** - WAP to display a Circle, Ellipse, Arc, and Rectangle
-
----
-
-### Q2 - Displaying a Circle, Ellipse, Arc, and Rectangle
+### Q2 - WAP to display a Circle, Ellipse, Arc, and Rectangle
 
 **Description**:  
 A program that demonstrates basic geometric shapes—circle, ellipse, arc, and rectangle—rendered using standard Computer Graphics functions.
