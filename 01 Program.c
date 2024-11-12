@@ -4,7 +4,9 @@ void main()
 {
 int graphicdriver = DETECT,graphicmode;
 initgraph(&graphicdriver,&graphicmode,"C:\\turboc3\bgi");
+  
 outtextxy(10,10+10,"Program to draw a circle, Ellipse, Arc, Rectangle");
+  
 arc (100,250,180,0,50);
 sector (250,300,0,70,100,100);
 circle(100,100,50);
