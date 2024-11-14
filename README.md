@@ -9,7 +9,8 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 **Description**:  
 A program that demonstrates basic geometric shapes—circle, ellipse, arc, and rectangle—rendered using standard Computer Graphics functions.
 
-**Output**:  
+**Output**:
+
 ![Output - Q2](02Gprog.png)
 
 ---
