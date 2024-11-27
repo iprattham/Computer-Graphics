@@ -1,4 +1,4 @@
-# 🎨 Computer Graphics
+# 🎨 Computer Graphics!
 
 Welcome to my repository of Computer Graphics programs, featuring various classic graphics algorithms and visual outputs. Each program is carefully implemented and accompanied by its output image for easy reference.
 
