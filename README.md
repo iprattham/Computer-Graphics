@@ -10,7 +10,7 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 **Output**:
 
-![Output - Q2](02Gprog.png)
+![Output - Q2](01 Output.png)
 
 ---
 
