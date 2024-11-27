@@ -10,7 +10,7 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 **Output**:
 
-![Output - Q1]("01 Output.png")
+![Output - Q1](01%20Output.png)
 
 ---
 
