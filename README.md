@@ -4,7 +4,7 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 ---
 
-### Q1 - Write a program to draw a line, circle, ellipse, arc, sector, and bar using functions.
+### Q1 - Write a program to draw a line, circle, ellipse, arc, sector & bar using functions.
 
 **Description**:  A program that demonstrates basic geometric shapes - circle, ellipse, arc, and rectangle - rendered using standard Computer Graphics functions!
 
@@ -14,13 +14,13 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 ---
 
-### Q2 - Write a program to draw a line, circle, ellipse, arc, sector, and bar using functions.
+### Q2 - WAP to implement functions and draw nested circle & rectangle.
 
 **Description**:  A program that demonstrates basic geometric shapes - circle, ellipse, arc, and rectangle - rendered using standard Computer Graphics functions!
 
 **Output**:
 
-![Output - Q1](01%20Output.png)
+![Output - Q1](02%20Output.png)
 
 ---
 
