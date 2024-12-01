@@ -20,7 +20,7 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 **Output**:
 
-![Output - Q1](02%20Output.png)
+![Output - Q2](02%20Output.png)
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 **Output**:
 
-![Output - Q1](03%20Output.png)
+![Output - Q3](03%20Output.png)
 
 ---
 
