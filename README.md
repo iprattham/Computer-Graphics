@@ -24,4 +24,14 @@ Welcome to my repository of Computer Graphics programs, featuring various classi
 
 ---
 
+### Q2 - WAP to implement functions and draw nested circle & rectangle.
+
+**Description**:  A program that demonstrates basic geometric shapes - circle, ellipse, arc, and rectangle - rendered using standard Computer Graphics functions!
+
+**Output**:
+
+![Output - Q1](02%20Output.png)
+
+---
+
 More programs coming soon!
